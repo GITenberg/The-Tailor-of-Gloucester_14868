@@ -21,6 +21,8 @@ description: "The Tailor of Gloucester is a children's book written and illustra
   \ cat and was based on a real world incident involving a tailor and his assistants.\
   \ For years, Potter declared that of all her books it was her personal favourite.\n\
   \n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14868#The-Tailor-of-Gloucester
 gutenberg_bookshelf: Children's Picture Books
 gutenberg_issued: '2005-02-02'
 gutenberg_type: Text
