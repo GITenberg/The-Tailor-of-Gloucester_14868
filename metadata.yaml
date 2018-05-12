@@ -1,0 +1,47 @@
+_repo: The-Tailor-of-Gloucester_14868
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 14868-h/images/cover_final.jpg
+creator:
+  author:
+    agent_name: Potter, Beatrix
+    aliases:
+    - Potter, Helen Beatrix
+    - Heelis, Beatrix
+    birthdate: 1866
+    deathdate: 1943
+    gutenberg_agent_id: '292'
+    url: http://www.gutenberg.org/2009/agents/292
+    wikipedia: http://en.wikipedia.org/wiki/Beatrix_Potter
+description: "The Tailor of Gloucester is a children's book written and illustrated\
+  \ by Beatrix Potter, privately printed by the author in 1902, and published in a\
+  \ trade edition by Frederick Warne & Co. in October 1903. The story is about a tailor\
+  \ whose work on a waistcoat is finished by the grateful mice he rescues from his\
+  \ cat and was based on a real world incident involving a tailor and his assistants.\
+  \ For years, Potter declared that of all her books it was her personal favourite.\n\
+  \n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2005-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14868'
+  wikidata: Q4386569
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mice -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Christmas -- Juvenile fiction'
+title: The Tailor of Gloucester
+url: http://www.gutenberg.org/ebooks/14868
+wikipedia:
+- https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AD%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%81%AE%E4%BB%95%E3%81%9F%E3%81%A6%E5%B1%8B
+- https://pt.wikipedia.org/wiki/The_Tailor_of_Gloucester
+- https://es.wikipedia.org/wiki/El_sastre_de_Gloucester
+- https://en.wikisource.org/wiki/The_Tailor_of_Gloucester
+- https://en.wikipedia.org/wiki/The_Tailor_of_Gloucester
+- https://commons.wikimedia.org/wiki/Category:The_Tailor_of_Gloucester
+- https://id.wikipedia.org/wiki/The_Tailor_of_Gloucester
